@@ -1,3 +1,5 @@
+The final model is model 20, with flipping the training data, Merging original and transformed data, RandomCrop(32, padding=4), C1=40, epoch=40.
+
 ## Model1: C1=40, epoch=15
 Test Accuracy: 82.65%
 
