@@ -25,7 +25,7 @@ Test Accuracy: 91.5%
 Test Accuracy: 90.9%
 ## Model18: Flip the training data, RandomCrop(32, padding=4), C1=40, epoch=40
 Test Accuracy:  90.74%
-## Model19: Flip the training data, Merging original and transformed data, RandomCrop(32, padding=4), C1=40, epoch=40
+## Final Model: Flip the training data, Merging original and transformed data, RandomCrop(32, padding=4), C1=40, epoch=40
 Test Accuracy: 91.31%
 
 
