@@ -3,6 +3,7 @@ Test Accuracy: 82.65%
 
 # Flip the training data:
 ##Model2: Flip the training data, C1=40, epoch=15
+
 Test Accuracy: 86.82%
 ##Model12: Flip the training data, RandomCrop(32, padding=4), C1=40, epoch=15
 Test Accuracy: 88.13%
